@@ -1,2 +1,7 @@
-# myportfolio
-## Portfolio new
+# 😃 My Portfolio
+
+
+
+
+
+[Created by Ian Spresney](https://ianspresney.com)
